@@ -28,8 +28,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
-
+ 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
@@ -80,7 +79,7 @@ social-network-links:
 #  google-plus: +DeanAttali
   linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
